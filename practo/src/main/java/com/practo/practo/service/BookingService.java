@@ -33,7 +33,7 @@ public class BookingService {
           }
         }
 
-        ScheduledExecutorService executor = Executors.newScheduledThreadPool("")
+        //ScheduledExecutorService executor = Executors.newScheduledThreadPool("");
 
 
         booking.setDoctorId(dto.getDoctorId());

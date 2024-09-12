@@ -15,6 +15,7 @@ public class BookingController {
     private BookingService bookingService;
 
     public ResponseEntity<String> bookAnAppointment(BookingDto bookingDto){
+        return null;
 
     }
 }
